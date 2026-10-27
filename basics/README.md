@@ -9,3 +9,4 @@
 10-back: changes the working directory to the previous one.
 11-lists: lists three folders in one go, long format, including hidden files.
 12-file_type: Prints  what filetype iamafile is.
+13-symbolic_link: Creates a shortcut (symbolic link) called __ls__ that points to the ls program at /bin/ls.
