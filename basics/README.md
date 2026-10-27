@@ -10,3 +10,4 @@
 11-lists: lists three folders in one go, long format, including hidden files.
 12-file_type: Prints  what filetype iamafile is.
 13-symbolic_link: Creates a shortcut (symbolic link) called __ls__ that points to the ls program at /bin/ls.
+14-copy_html: copies html files to the parent directory if they are missing there or newer than the versions there.
