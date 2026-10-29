@@ -10,6 +10,8 @@
 - `8-James_Bond`: sets the permissions of hello to non for the owner and group, and all for other users.
 - `9-John_Doe`: sets the mode of the file hello to `-rwxr-x-wx`.
 - `10-mirror_permissions`: sets the mode of the file hello to match the mode of olleh.
+- `11--directories_permissions: adds execute permission to all subdirectories of the current directory for everyone, leaves regular files unchanged.
+
 
 
 
