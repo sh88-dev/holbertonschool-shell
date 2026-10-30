@@ -9,6 +9,7 @@
 - `8-cwd_state`: writes result of ls -la into the file ls_cwd_content, overwriting it or creating it.
 - `9-duplicate_last_line`: duplicate and display the last line of the file iacta.
 - `10-no_more_js`: deletes all regular files with a .js extension in the current directory and its subfolders.
+- `11-directories`: counts the directories and sub-directories in the current directory, including hidden ones.
 
 
 
