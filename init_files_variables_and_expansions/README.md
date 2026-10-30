@@ -10,4 +10,6 @@
 - `7-create_global_variable`: creates a global (exported) variable named `BEST` with the value `School`.
 - `8-true_knowledge`: prints 128 plus the value of the environment variable `TRUEKNOWLEDGE`, followed by a new line.
 - `9-divide_and_rule`: prints the result of `POWER` divided by `DIVIDE`, followed by a new line.
-
+- `10-- `10-love_exponent_breath`: prints `BREATH` to the power `LOVE`, followed by a new line.
+- `11-binary_to_decimal`: converts the base-2 number in `BINARY` to base 10, followed by a new line.
+- `12-combinations`: prints all two-letter combinations from `aa` to `zz`, one per line, except `oo`.
